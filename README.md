@@ -5,5 +5,5 @@
 
 Курс ведут:
 - Борис Валерьевич Орехов (группа 2) nevmenandr@gmail.com
-- Елизавета Мещерякова (группа 3) e-meshch@yandex.ru
+- Евгения Мещерякова (группа 3) e-meshch@yandex.ru
 - Сергей Муратов (группы 1, 4) muratovst@gmail.com
